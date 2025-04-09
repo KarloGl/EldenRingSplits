@@ -1,6 +1,6 @@
 ﻿Splits avec le plus de temps a gagner par rapport aux golds :
-#1 Radagon (305,28 s)
-#2 Godfrey (111,47 s)
-#3 GeyserBoy (101,00 s)
-#4 Rage Skips (42,42 s)
-#5 Godskin Duo (41,70 s)
+#1 Godrick (155,96 s)
+#2 GeyserBoy (70,84 s)
+#3 Rage Skips (37,27 s)
+#4 Radahn (15,21 s)
+#5 Fire Giant (14,80 s)
