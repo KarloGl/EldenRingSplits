@@ -1,6 +1,6 @@
 Splits avec le plus de temps a gagner par rapport aux golds :
-#1 GeyserBoy (68,44 s)
-#2 Radagon (59,49 s)
+#1 GeyserBoy (71,40 s)
+#2 Radagon (59,70 s)
 #3 Pollo impertinente (17,27 s)
-#4 Rage Skips (13,03 s)
+#4 Capital Skips (13,03 s)
 #5 Fire Giant (10,66 s)
