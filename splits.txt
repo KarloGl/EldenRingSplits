@@ -1,6 +1,6 @@
 Splits avec le plus de temps a gagner par rapport aux golds :
-#1 Pollo impertinente (34,48 s)
-#2 Goldfrey (28,89 s)
-#3 Godskin Duo (13,32 s)
-#4 KidnapMachine (11,69 s)
-#5 Capital Skips (10,66 s)
+#1 Stone 8 (14,50 s)
+#2 Godskin Duo (10,48 s)
+#3 Godfrey (7,73 s)
+#4 Stone 7 (6,83 s)
+#5 Sellia Skip (6,60 s)
