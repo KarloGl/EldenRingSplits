@@ -4,3 +4,8 @@ Splits avec le plus de temps a gagner par rapport aux golds :
 #3 Fire Giant (8,84 s)
 #4 Godfrey (8,72 s)
 #5 Nebula Dragon (8,25 s)
+#6 Stone 7 (7,10 s)
+#7 Goldfrey (6,90 s)
+#8 GeyserBoy (4,08 s)
+#9 Popotin (4,01 s)
+#10 KidnapMachine (3,95 s)
